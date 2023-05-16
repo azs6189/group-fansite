@@ -7,6 +7,11 @@ h1 {
     color: green;
 }
 
+footer {
+    text-align: center;
+    color:purple;
+    margin-top: 1em
+}
 #navlinks {
     padding: 0;
 }
@@ -19,4 +24,6 @@ h1 {
 .short-summary{
     border: 1px solid black;
     color: blue;
+    padding: 5em;
+    text-align: center;
 }
