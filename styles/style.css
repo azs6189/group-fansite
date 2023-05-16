@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    color: green;
+}
+
+#navlinks {
+    padding: 0;
+}
+
+#navlinks li {
+    display: inline;
+    margin: 14px;
+}
+
+.short-summary{
+    border: 1px solid black;
+    color: blue;
+}
